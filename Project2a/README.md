@@ -13,7 +13,7 @@ The Au-Cu alloy is significant due to its unique properties and applications. Th
 
 ## **Repository Contents**
 The following files are included in this repository:
-- **`images/`**: Visualizations, such as mixing energy plots, ECI comparisons, and ground-state energy distributions.
+- **`images/`**: Visualizations
 - **`AuCu-structures.db`**: Database containing atomic structure data.
 - **`ground-state-candidates.db`**: Database of candidate structures for ground-state energy predictions.
 - **`README.md`**: This document.
