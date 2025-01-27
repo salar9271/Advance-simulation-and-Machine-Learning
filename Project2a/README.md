@@ -18,7 +18,7 @@ The following files are included in this repository:
 - **`ground-state-candidates.db`**: Database of candidate structures for ground-state energy predictions.
 - **`README.md`**: This document.
 - **`TIF345_CE_project_2a.ipynb`**: Jupyter Notebook with Python implementation for all tasks.
-- **`Project_2a.pdf`**: Detailed project report summarizing methods, results, and conclusions.
+- **`Project2a_Report.pdf`**: Detailed project report summarizing methods, results, and conclusions.
 
 ## **Highlights**
 ### **Task 1: Cluster Vectors and Mixing Energy**
